@@ -25,9 +25,7 @@ This folder contains the slides in PDFs and colab demos for the "Learning Deep L
  - When: Oct 27, 2020 10am-12:00pm
  - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJEvf-mgpjMiHtOgC7q7MzP1D76Nxo7079Oj) before joining
  - Dog-vs-Cat Plain CNNs Demo [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/LDL_02)
-<!--
-- [Slides](https://huqy.github.io/idre-learning-deep-learning-pytorch/4_DL_CNNs.pdf)
--->
+ - [Slides](https://huqy.github.io/idre-learning-deep-learning-pytorch/4_DL_CNNs.pdf)
 
 #### Improving CNNs Performance
  - When: Oct 29, 2020 10am-12:00pm
